@@ -1,0 +1,43 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Optional npm cache
+.npm/
+
+# Build output
+dist/
+build/
+
+# Coverage reports
+coverage/
+
+# Debugging
+.vscode/
+.idea/
+
+# Temporary files
+*.swp
+*.swo
+
+# Test results
+*.tsbuildinfo
+
+# Optional: PM2 process logs
+pids/
+*.pid
+*.seed
+*.pid.lock
